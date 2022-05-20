@@ -1,0 +1,172 @@
+[
+  {
+    "id": 0,
+    "name": "PURPLE PUNCH",
+    "picture": "images/PURPLE PUNCH.png",
+    "dominant": "Indica-Dominant",
+    "THC": 200,
+    "CBD": 10,
+    "by": "Table Top",
+    "price": 3.57
+  },
+  {
+    "id": 1,
+    "name": "SOUR KUSH",
+    "picture": "images/SOUR KUSH.png",
+    "dominant": "Hybrid",
+    "THC": 190,
+    "CBD": 9.9,
+    "by": "Good Supply",
+    "price": 3.57
+  },
+  {
+    "id": 2,
+    "name": "SPARK BUDS",
+    "picture": "images/SPARK BUDS.png",
+    "dominant": "Sativa-Dominant",
+    "THC": 150,
+    "CBD": 2.5,
+    "by": "Trailblazer",
+    "price": 4.33
+  },
+  {
+    "id": 3,
+    "name": "FLICKER BUDS",
+    "picture": "images/FLICKER BUDS.png",
+    "dominant": "Indica-Dominant",
+    "THC": 150,
+    "CBD": 2.5,
+    "by": "Trailblazer",
+    "price": 4.33
+  },
+  {
+    "id": 4,
+    "name": "JEAN GUY",
+    "picture": "images/JEAN GUY.png",
+    "dominant": "Sativa-Dominant",
+    "THC": 170,
+    "CBD": 9.9,
+    "by": "Good Supply",
+    "price": 6.99
+  },
+  {
+    "id": 5,
+    "name": "ONE OUNCE HYBRID",
+    "picture": "images/ONE OUNCE HYBRID.png",
+    "dominant": "Hybrid",
+    "THC": 190,
+    "CBD": 10,
+    "by": "The Batch",
+    "price": 3.57
+  },
+  {
+    "id": 6,
+    "name": "ONE OUNCE HYBRID",
+    "picture": "images/ONE OUNCE HYBRID.png",
+    "dominant": "Hybrid",
+    "THC": 190,
+    "CBD": 10,
+    "by": "The Batch",
+    "price": 3.57
+  },
+  {
+    "id": 7,
+    "name": "ONE OUNCE HYBRID",
+    "picture": "images/ONE OUNCE HYBRID.png",
+    "dominant": "Hybrid",
+    "THC": 190,
+    "CBD": 10,
+    "by": "The Batch",
+    "price": 3.57
+  },
+  {
+    "id": 8,
+    "name": "PURPLE PUNCH",
+    "picture": "images/PURPLE PUNCH.png",
+    "dominant": "Indica-Dominant",
+    "THC": 200,
+    "CBD": 10,
+    "by": "Table Top",
+    "price": 3.57
+  },
+  {
+    "id": 9,
+    "name": "SOUR KUSH",
+    "picture": "images/SOUR KUSH.png",
+    "dominant": "Hybrid",
+    "THC": 190,
+    "CBD": 9.9,
+    "by": "Good Supply",
+    "price": 3.57
+  },
+  {
+    "id": 10,
+    "name": "SPARK BUDS",
+    "picture": "images/SPARK BUDS.png",
+    "dominant": "Sativa-Dominant",
+    "THC": 150,
+    "CBD": 2.5,
+    "by": "Trailblazer",
+    "price": 4.33
+  },
+  {
+    "id": 11,
+    "name": "FLICKER BUDS",
+    "picture": "images/FLICKER BUDS.png",
+    "dominant": "Indica-Dominant",
+    "THC": 150,
+    "CBD": 2.5,
+    "by": "Trailblazer",
+    "price": 4.33
+  },
+  {
+    "id": 12,
+    "name": "JEAN GUY",
+    "picture": "images/JEAN GUY.png",
+    "dominant": "Sativa-Dominant",
+    "THC": 170,
+    "CBD": 9.9,
+    "by": "Good Supply",
+    "price": 6.99
+  },
+  {
+    "id": 13,
+    "name": "PURPLE PUNCH",
+    "picture": "images/PURPLE PUNCH.png",
+    "dominant": "Indica-Dominant",
+    "THC": 200,
+    "CBD": 10,
+    "by": "Table Top",
+    "price": 3.57
+  },
+  {
+    "id": 14,
+    "name": "PURPLE PUNCH",
+    "picture": "images/PURPLE PUNCH.png",
+    "dominant": "Indica-Dominant",
+    "THC": 200,
+    "CBD": 10,
+    "by": "Table Top",
+    "price": 3.57
+  },
+  {
+    "id": 15,
+    "name": "PURPLE PUNCH",
+    "picture": "images/PURPLE PUNCH.png",
+    "dominant": "Indica-Dominant",
+    "THC": 200,
+    "CBD": 10,
+    "by": "Table Top",
+    "price": 3.57
+  },
+  {
+    "id": 16,
+    "name": "PURPLE PUNCH",
+    "picture": "images/PURPLE PUNCH.png",
+    "dominant": "Indica-Dominant",
+    "THC": 200,
+    "CBD": 10,
+    "by": "Table Top",
+    "price": 3.57
+  }
+]
